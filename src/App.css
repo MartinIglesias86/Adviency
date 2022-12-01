@@ -1,0 +1,12 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+body {
+  background-color: #232946;;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.2rem;
+  color: #b8c1ec;
+}
